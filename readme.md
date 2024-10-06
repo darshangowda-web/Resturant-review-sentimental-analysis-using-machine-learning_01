@@ -99,4 +99,4 @@ Here are a few screenshots from the **Streamlit app** that we built to predict s
 With a few lines of code and some powerful machine learning tools, we created a **sentiment analysis** system that can predict whether a restaurant review is positive or negative, and even built a **web app** for easy use! 🚀🍽️
 ```
 
-You can update the `path/to/input_screenshot.png` and `path/to/prediction_screenshot.png` with the actual paths to your screenshots when you include them.
+
