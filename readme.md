@@ -1,4 +1,3 @@
-Here’s the updated Markdown with a **screenshot section** included:
 
 ```markdown
 # 🌟 Sentiment Analysis Using Machine Learning 🧐🍽️
