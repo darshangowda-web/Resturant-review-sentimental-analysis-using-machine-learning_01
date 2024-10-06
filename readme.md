@@ -87,10 +87,11 @@ app()
 Here are a few screenshots from the **Streamlit app** that we built to predict sentiment:
 
 ### Positive review:
-!(positive.png)
+![Positive Review](positive.png)
 
-### negative review:
-!(negative.png)
+### Negative review:
+![Negative Review](negative.png)
+
 
 ---
 
